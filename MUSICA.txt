@@ -1,0 +1,1 @@
+Coloque o arquivo da música nesta pasta com o nome musica.mp3. Ela começa no clique de “CLIQUE AQUI” e continua durante as etapas.
